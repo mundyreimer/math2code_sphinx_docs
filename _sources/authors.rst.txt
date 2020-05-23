@@ -1,7 +1,7 @@
 Authors
 =======
 
-Management
+Architecture
 **********
 - Mundy Reimer: He will primarily be tasked with organizing and coordinating the efforts of the three teams contributing to this project.  He will also mediate any conflicts that arise and ensure that tasks are equitably distributed.  Lastly, he will be in charge of communications for the team.
 
