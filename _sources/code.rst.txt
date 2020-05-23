@@ -1,0 +1,13 @@
+Math2Code's Documentation
+=================================
+.. automodule:: app.image2latex
+   :members: 
+   :undoc-members:
+
+.. automodule:: app.latex2numpy
+   :members: 
+   :undoc-members:
+
+.. automodule:: app.utils
+   :members: 
+   :undoc-members:

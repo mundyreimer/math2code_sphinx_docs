@@ -1,0 +1,23 @@
+Authors
+=======
+
+Management
+**********
+- Mundy Reimer: He will primarily be tasked with organizing and coordinating the efforts of the three teams contributing to this project.  He will also mediate any conflicts that arise and ensure that tasks are equitably distributed.  Lastly, he will be in charge of communications for the team.
+
+Front-End Design
+****************
+- Michael Schulze: He will be in charge of leading the Front-End Team and designing the user interface to upload images and output translated code from the backend.
+- Zachary Barnes: He will be in charge of facilitating interactions with the backend team and ensuring clean data transfer between APIs.
+- Qingmengting Wang: She will be in charge of the design of the user interface and backend integration.
+
+Engineering
+***********
+- Nithish Bolleddula: He will be in charge of leading the Engineering Team and creating a rule-based model to interact with the OCR-based API that generates LaTeX.
+- Roja Immanni: She will be in charge of creating a rule-based model to generate Numpy/PyTorch code from the LaTeX output of the OCR API.
+- Jingwen Yu: She will be in charge of creating a rule-based model to generate Numpy/PyTorch code from LaTeX output of the OCR API.
+
+DevOps
+******
+- Ariana Moncada: She will be in charge of leading the DevOps Team, ensuring the health of the codebase on GitHub (i.e keep track of issues, branches, and PRs) and help develop the back-end codebase.
+- Shishir Kumar: He will be in charge of keeping the lights on i.e. maintaining servers, containerizing applications (if required), developing back-end code to integrate applications with front end and other relevant tasks.
